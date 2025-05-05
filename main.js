@@ -1,7 +1,7 @@
 /*
  Exemplo1
  function mostrarAlerta(){
-     let nome = "Pedro"
+     let nome = "Davi Lindão"
      alert("Seja bem-vindo(a), "+nome)
  }
  
